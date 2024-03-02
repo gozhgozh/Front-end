@@ -1,0 +1,33 @@
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+h1,
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+div {
+    width: 400px;
+}
+
+p {
+    text-align: justify;
+    line-height: 30px;
+    text-indent: 30px;
+}
+
+.bold-red {
+    font-weight: bold;
+    color: red;
+}
+
+.italic-blue {
+    font-style: italic;
+    color: blue;
+}
